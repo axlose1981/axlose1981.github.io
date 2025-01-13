@@ -51,7 +51,7 @@
 | 최상급 근접 충격     | 베벌리 힐스의 미완성 저택 현장 감독의 금고(메인 퀘스트 분노의 종료 이후 현장에 있는 현장 감독 드랍)  |      |
 | 최상급 원거리 충격   | 실종자: 나디아                                                                                       |      |
 
-
+---
 
 ### 티슈 010-9683-7311
 
@@ -63,16 +63,16 @@
 
 ### 보스 010-4265-2561
 
--   [미야](./img/boss/miya.gif)
+-   ~~[미야](./img/boss/miya.gif)~~
 -   [바비](./img/boss/babi.gif)
--   [벨라](./img/boss/bella.gif)
+-   ~~[벨라](./img/boss/bella.gif)~~
 
 ---
 
 ### BtoB 010-5183-7775
 
--   [리아](./img/btob/lia.gif)
--   [이사벨](./img/btob/isabel.gif)
+-   ~~[리아](./img/btob/lia.gif)~~
+-   ~~[이사벨](./img/btob/isabel.gif)~~
 -   [바이올렛](./img/btob/violet.gif)
 
 ---
