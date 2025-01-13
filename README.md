@@ -55,9 +55,9 @@
 
 ### 티슈 010-9683-7311
 
--   [민아](./img/tissue/mina.gif)
+-   [민아](./img/tissue/mina.gif) 1
 -   [애니](./img/tissue/ani.gif)
--   [리나](./img/tissue/lina.gif)
+-   [리나](./img/tissue/lina.gif) 1
 
 ---
 
@@ -83,8 +83,8 @@
 -   [하율](./img/banana/hayul.jpg)
 -   [향단](./img/banana/hyangdan.jpg)
 -   [로리](./img/banana/loli.jpg)
--   [바비](./img/banana/babi.jpg)
--   [예빈](./img/banana/yebin.jpg)
+-   [바비](./img/banana/babi.jpg) 1
+-   [예빈](./img/banana/yebin.jpg) 1
 -   [아름](./img/banana/areum.jpg)
 -   [예슬](./img/banana/yeseul.jpg)
 
