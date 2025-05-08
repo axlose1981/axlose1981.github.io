@@ -419,6 +419,8 @@
 
 ### Dead Island 2
 
+![2B]([https://staticdelivery.nexusmods.com/mods/4333/images/5443/5443-1719870693-953042973.png](https://assetsio.gnwcdn.com/dead-island-2-expansion-pass.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp))
+
 | 퀘스트명           | 지역        | 보상                                                  | 공략                         |
 | ------------------ | ----------- | ----------------------------------------------------- | ---------------------------- |
 | 빚 좋은 개살구     | 부두        | 전설무기 피의 분노, 최상급 근접 약화 모드             | https://youtu.be/olx318ORrCU |
