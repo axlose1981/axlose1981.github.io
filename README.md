@@ -118,6 +118,23 @@
 
 ---
 
+### [Lineage II Revolution - Dark Elf](https://www.nexusmods.com/eldenring/mods/6398?tab=description)
+
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/6398/6398-1725158454-909266582.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/6398/6398-1725158385-1245921751.png)
+
+
+|      | 부위 | 원본     | ID   | EN      | 설명 |
+| ---- | ---- | -------- | ---- | ------- | ---- |
+| 의상 | 머리 | 가이우스 | 3000 | Gaius's |      |
+|      | 가슴 | 가이우스 | 3000 | Gaius's |      |
+|      | 장갑 | 가이우스 | 3000 | Gaius's |      |
+|      | 각반 | 가이우스 | 3000 | Gaius's |      |
+
+-   헤어스타일 7가지
+
+---
+
 ### [NieR Reincarnation - YoRHa No.10 Type H](https://www.nexusmods.com/eldenring/mods/6664)
 
 ![10H](https://staticdelivery.nexusmods.com/mods/4333/images/6664/6664-1728346659-468461970.png)
@@ -152,10 +169,10 @@
 
 ---
 
-### [10H 2B Reborn Warden (full pyhsics and weapons) pending...](https://www.nexusmods.com/eldenring/mods/4818)
+### [10H 2B Reborn Warden (full pyhsics and weapons)](https://www.nexusmods.com/eldenring/mods/4818)
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/4818/4818-1711753578-889375674.gif)
-![2B](https://staticdelivery.nexusmods.com/mods/4333/images/4818/4818-1711752404-177518472.jpeg)
+![조합표](https://staticdelivery.nexusmods.com/mods/4333/images/4818/4818-1711752404-177518472.jpeg)
 
 |      | 부위 | 원본            | ID   | EN               | 설명              |
 | ---- | ---- | --------------- | ---- | ---------------- | ----------------- |
@@ -174,7 +191,7 @@
 
 ---
 
-### [2B Reincarnation (2 colours physics jiggle DLC compatabile) pengind...](https://www.nexusmods.com/eldenring/mods/4492)
+### [2B Reincarnation (2 colours physics jiggle DLC compatabile)](https://www.nexusmods.com/eldenring/mods/4492)
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/4492/4492-1706821391-1439598889.gif)
 
@@ -191,6 +208,23 @@
 
 ---
 
+### [2B Cyberpunk pending...](https://www.nexusmods.com/eldenring/mods/4888)
+
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/4888/4888-1712853887-1985999571.gif)
+
+|      | 부위 | 원본   | ID   | EN       | 설명 |
+| ---- | ---- | ------ | ---- | -------- | ---- |
+| 의상 | 머리 | 호슬로 | 1270 | Hoslow's | 검정 |
+|      | 가슴 | 호슬로 | 1270 | Hoslow's | 검정 |
+|      | 장갑 | 호슬로 | 1270 | Hoslow's | 검정 |
+|      | 각반 | 호슬로 | 1270 | Hoslow's | 검정 |
+| 의상 | 머리 | 용기사 | 1100 | Drake    | 흰색 |
+|      | 가슴 | 용기사 | 1100 | Drake    | 흰색 |
+|      | 장갑 | 용기사 | 1100 | Drake    | 흰색 |
+|      | 각반 | 용기사 | 1100 | Drake    | 흰색 |
+
+---
+
 ### [Kingdom Under Fire Celine](https://www.nexusmods.com/eldenring/mods/2152)
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/2152/2152-1661530360-1197286660.png)
@@ -201,6 +235,30 @@
 |      | 가슴 | 뿔 전사 | 3080 | Horned Warrior |      |
 |      | 장갑 | 뿔 전사 | 3080 | Horned Warrior |      |
 |      | 각반 | 뿔 전사 | 3080 | Horned Warrior |      |
+
+---
+
+### [Lyra (ToF)](https://www.nexusmods.com/eldenring/mods/2476)
+
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/2476/2476-1666926988-1698253836.png)
+
+|      | 부위 | 원본         | ID   | EN             | 설명      |
+| ---- | ---- | ------------ | ---- | -------------- | --------- |
+| 의상 | 머리 | 디아로스     | 1275 | Diallos's Mask |           |
+|      | 가슴 | 점성술       | 1250 | Astrologer     |           |
+|      | 가슴 | 점성술(경장) | 1251 | Astrologer     | 허리에 책 |
+|      | 장갑 | 점성술       | 1250 | Astrologer     |           |
+|      | 각반 | 점성술       | 1250 | Astrologer     |           |
+
+---
+
+### [Trasparent Body(투명 바디)](#)
+
+|     | 부위 | 원본    | ID   | EN          | 설명 |
+| --- | ---- | ------- | ---- | ----------- | ---- |
+|     | 가슴 | 온 지혜 | 1210 | All-Knowing |      |
+|     | 장갑 | 온 지혜 | 1210 | All-Knowing |      |
+|     | 각반 | 온 지혜 | 1210 | All-Knowing |      |
 
 ---
 
@@ -228,30 +286,13 @@
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/6992/6992-1737617425-1567202363.png)
 
-|      | 부위   | 원본   | ID   | EN             | 설명 |
-| ---- | ------ | ------ | ---- | -------------- | ---- |
-| 무기 | 역수검 | 역수검 | 1571 | Backhand Blade | 팔스 |
+|      | 부위 | 원본 | ID  | EN  | 설명 |
+| ---- | ---- | ---- | --- | --- | ---- |
+| 무기 |      |      |     |     |      |
 
 ---
 
 ## 적용 안함
-
----
-
-### [2B Cyberpunk pending...](https://www.nexusmods.com/eldenring/mods/4888)
-
-![2B](https://staticdelivery.nexusmods.com/mods/4333/images/4888/4888-1712853887-1985999571.gif)
-
-|      | 부위 | 원본             | ID   | EN            | 설명 |
-| ---- | ---- | ---------------- | ---- | ------------- | ---- |
-| 의상 | 머리 | 갤미어 기사      | 2380 | Gelmir Knight | 검정 |
-|      | 가슴 | 갤미어 기사      | 2380 | Gelmir Knight | 검정 |
-|      | 장갑 | 갤미어 기사      | 2380 | Gelmir Knight | 검정 |
-|      | 각반 | 갤미어 기사      | 2380 | Gelmir Knight | 검정 |
-| 의상 | 머리 | 도가니 기사 도끼 | 2110 | Crucible Axe  | 흰색 |
-|      | 가슴 | 도가니 기사 도끼 | 2110 | Crucible Axe  | 흰색 |
-|      | 장갑 | 도가니 기사      | 2110 | Crucible      | 흰색 |
-|      | 각반 | 도가니 기사      | 2110 | Crucible      | 흰색 |
 
 ---
 
@@ -268,19 +309,6 @@
 
 ---
 
-### [Lineage II Revolution - Dark Elf](https://www.nexusmods.com/eldenring/mods/6398?tab=description)
-
-![2B](https://staticdelivery.nexusmods.com/mods/4333/images/6398/6398-1725158233-322112605.png)
-
-|      | 부위 | 원본     | ID   | EN      | 설명 |
-| ---- | ---- | -------- | ---- | ------- | ---- |
-| 의상 | 머리 | 가이우스 | 3000 | Gaius's |      |
-|      | 가슴 | 가이우스 | 3000 | Gaius's |      |
-|      | 장갑 | 가이우스 | 3000 | Gaius's |      |
-|      | 각반 | 가이우스 | 3000 | Gaius's |      |
-
----
-
 ### [Akeha - hair and cloth physics](https://www.nexusmods.com/eldenring/mods/1475)
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/1475/1475-1655142920-763341462.png)
@@ -290,12 +318,6 @@
 ### [BLACK ROCK SHOOTER](https://www.nexusmods.com/eldenring/mods/2635)
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/2635/2635-1670420478-695760523.png)
-
----
-
-### [Lyra (ToF)](https://www.nexusmods.com/eldenring/mods/2476)
-
-![2B](https://staticdelivery.nexusmods.com/mods/4333/images/2476/2476-1666926988-1698253836.png)
 
 ---
 
@@ -412,72 +434,5 @@
 | 긴 이빨                 | 0551      | Nagakiba                     |     |
 | 명도 월은               | 0556      | Moonveil                     |     |
 | 경대검                  | 1680      | Milady                       |     |
-
----
-
-
-
-### Dead Island 2
-
-![2B](https://assetsio.gnwcdn.com/dead-island-2-expansion-pass.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp)
-
-| 퀘스트명           | 지역        | 보상                                                  | 공략                         |
-| ------------------ | ----------- | ----------------------------------------------------- | ---------------------------- |
-| 빚 좋은 개살구     | 부두        | 전설무기 피의 분노, 최상급 근접 약화 모드             | https://youtu.be/olx318ORrCU |
-| 만취 그리고 난장판 | 오션 에비뉴 | 전설무기 파티 스타터                                  | https://youtu.be/qbnqQtvV6FY |
-| 청소하며 슬쩍      | 베벌리 힐즈 | 희귀 전격 모드, 희귀 장교의 검                        | https://youtu.be/HoPUDzW65bM |
-| 우체부가 좀비였어  | 벨 에어     | 유니크 스포츠용 소총 레이븐                           | https://youtu.be/PtY65-BaIs4 |
-| 조의 비상금 보관함 | 베니스 해변 | 최상급 쇠지렛대                                       | https://youtu.be/jyFg2duQbCU |
-|삭제됨|베니스 해변|바디카운트||
-|바디 아트|베벌리 힐즈|야만의 마체테||
-|만취 그리고 난장판|설링 호텔 1층 화장실|파티 스타터||
-| 실종자: 스티브     |             | 전설무기 크라카토아                                   | https://youtu.be/qcd7XuMqxto |
-| 실종자: 레이니어   |             | 최상급 근접 타공 모드                                 | https://youtu.be/2P4LKA-CSTg |
-| 실종자: 로라       |             | 경험치 1500                                           | https://youtu.be/2PvPs8mMQw8 |
-| 실종자: 자말       |             | 경험치 1500                                           | https://youtu.be/fyy2EoJBitI |
-| 실종자: 데이비스   |             | 최상급 급조 망치                                      | https://youtu.be/ZUTGDcRYBlo |
-| 실종자: 파블로     |             | 희귀 등급 소방도끼, 갱 그린 스토어를 들어가기 위한 키 | https://youtu.be/1mploJMPG9w |
-| 실종자: 그레그     |             | 최상급 금속 방망이                                    | https://youtu.be/m9qUeXA50fs |
-| 실종자: 셰인       |             | 경험치 2000                                           | https://youtu.be/oH57BRfyN8o |
-| 실종자: 나디아     |             | 최상급 원거리 소각 모드.                              | https://youtu.be/DhfnOEcAODY |
-
-| 모드                 | 입수처                                                                                               | 획득 |
-| -------------------- | ---------------------------------------------------------------------------------------------------- | ---- |
-| 고급 근접 소각       | 엠마의 저택 작업대                                                                                   |      |
-| 고급 원거리 소각     | 브렌트우드 하수도의 중간지점 작업대                                                                  |      |
-| 고급 근접 액화       | 마이클 앤더스와 성배 퀘스트 후 모나크 스튜디오의 야외 무대 조사                                      |      |
-| 고급 원거리 액화     | 브렌트우드 하수도의 베니스 해변 출구 작업대 조사                                                     |      |
-| 고급 근접 전격       | 샘B                                                                                                  |      |
-| 고급 원거리 전격     | 브렌트우드 하수도의 벨 에어 출구 작업대 조사                                                         |      |
-| 고급 근접 타공       | 록산느의 집 작업대                                                                                   |      |
-| 고급 원거리 타공     | 세렝게티 사이렌 완료                                                                                 |      |
-| 고급 근접 난도질     | 베벌리 힐스의 미완성 저택 2층 작업대                                                                 |      |
-| 고급 원거리 난도질   | 상인 카이                                                                                            |      |
-| 고급 근접 충격       | 할퍼린 호텔 2층 작업대                                                                               |      |
-| 고급 원거리          | 세렝게티 사이렌 이후 엠마의 저택 작업대                                                              |      |
-| 희귀 근접 소각       | 거인 학살자 완료                                                                                     |      |
-| 희귀 원거리 소각     | 오늘의 유골                                                                                          |      |
-| 희귀 근접 액화       | 부식제 x의 파괴력                                                                                    |      |
-| 희귀 원거리 액화     | 상인 로드리게즈                                                                                      |      |
-| 희귀 근접 전격       | 사이드 퀘스트 바디아트 이후 상인 프란체스카                                                          | x    |
-| 희귀 원거리 전격     | 사이드 퀘스트 낚시질 완료                                                                            | x    |
-| 희귀 근접 타공       | 블루 크랩 그릴 작업대                                                                                |      |
-| 희귀 원거리 타공     | 상인 더기                                                                                            |      |
-| 희귀 근접 난도질     | 상인 카이                                                                                            |      |
-| 희귀 원거리 난도질   | 사이드 퀘스트 바디아트 이후 상인 프란체스카                                                          |      |
-| 희귀 근접 충격       | 산타 모니카 부두의 구조대 본부 작업대                                                                |      |
-| 희귀 원거리 충격     | 상인 더기                                                                                            |      |
-| 최상급 근접 소각     | 산타 모니카 부두의 구조대 본부의 구조대원의 도구함(모래사장의 해변의 핫가이 드랍)                    |      |
-| 최상급 원거리 소각   | 사이드 퀘스트 전쟁의 미학                                                                            |      |
-| 최상급 근접 액화     | 사이드 퀘스트 빛 좋은 개살구                                                                         |      |
-| 최상급 원거리 액화   | 베벨리 힐스 니키 구트의 집 니키의 현상금 보상(시체 뒤지기 이후 북쪽 야외의 사격 훈련 드랍)           |      |
-| 최상급 근접 전격     | 사이드 퀘스트 데즈와 사탄의 어머니                                                                   |      |
-| 최상급 원거리 전격   | 할리우드 대로의 연구실 에스카톤 직원 금고(대로 지하철의 에스카톤 박사 드랍)                          |      |
-| 최상급 근접 타공     | 실종자: 레이니어                                                                                     |      |
-| 최상급 원거리 타공   | 할리우드 대로의 극장 매표소 금고(대로의 안내원 닉 드랍)                                              |      |
-| 최상급 근접 난도질   | 설링 호텔 3층 데스크 설링 호텔 리셉션 금고(호텔 2층의 설링 안내원 드랍)                              |      |
-| 최상급 원거리 난도질 | 오션 에비뉴 북쪽 탈리아 레지던스 2층 전기 기사의 공구함(붕괴된 도로 아래의 결함 있는 전기 기사 드랍) |      |
-| 최상급 근접 충격     | 베벌리 힐스의 미완성 저택 현장 감독의 금고(메인 퀘스트 분노의 종료 이후 현장에 있는 현장 감독 드랍)  |      |
-| 최상급 원거리 충격   | 실종자: 나디아                                                                                       |      |
 
 ---
