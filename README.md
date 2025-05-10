@@ -2,9 +2,47 @@
 
 # [Elden ring mods](https://www.nexusmods.com/eldenring/)
 
+
+- [Elden ring mods](#elden-ring-mods)
+  - [적용 중](#적용-중)
+    - [mode engine 2](#mode-engine-2)
+    - [Custom UI Minimize HUD 2B Edition](#custom-ui-minimize-hud-2b-edition)
+    - [Succubus Gley](#succubus-gley)
+    - [Ultimate Bunny](#ultimate-bunny)
+    - [Dia Elias (The First Decscendant)](#dia-elias-the-first-decscendant)
+    - [Ultimate Valby](#ultimate-valby)
+    - [Kaine from NIeR Replicant 1.22](#kaine-from-nier-replicant-122)
+    - [Lineage II Revolution - Elf](#lineage-ii-revolution---elf)
+    - [Lineage II Revolution - Dark Elf](#lineage-ii-revolution---dark-elf)
+    - [NieR Reincarnation - YoRHa No.10 Type H](#nier-reincarnation---yorha-no10-type-h)
+    - [2B 2P Classic (physics and weapons)](#2b-2p-classic-physics-and-weapons)
+    - [10H 2B Reborn Warden (full pyhsics and weapons)](#10h-2b-reborn-warden-full-pyhsics-and-weapons)
+    - [2B Reincarnation (2 colours physics jiggle DLC compatabile)](#2b-reincarnation-2-colours-physics-jiggle-dlc-compatabile)
+    - [2B Cyberpunk](#2b-cyberpunk)
+    - [Kingdom Under Fire Celine](#kingdom-under-fire-celine)
+    - [Lyra (ToF)](#lyra-tof)
+    - [Trasparent Body(투명 바디)](#trasparent-body투명-바디)
+    - [Aerondight - The Witcher Sword](#aerondight---the-witcher-sword)
+    - [Witcher 3 Zireael (Ciri's sword)](#witcher-3-zireael-ciris-sword)
+    - [Ooga Booga Sword](#ooga-booga-sword)
+  - [적용 안함](#적용-안함)
+    - [Three Kingdoms Blade - Ryeonggi pending...](#three-kingdoms-blade---ryeonggi-pending)
+    - [Akeha - hair and cloth physics](#akeha---hair-and-cloth-physics)
+    - [BLACK ROCK SHOOTER](#black-rock-shooter)
+    - [Snow White Sera from OverHit aka Succubus Mommy](#snow-white-sera-from-overhit-aka-succubus-mommy)
+    - [Irithyll Straight Sword](#irithyll-straight-sword)
+    - [Greatsword of Artorias Restored](#greatsword-of-artorias-restored)
+    - [Hand of Malenia - Dismounter and Bloodhound's Fang replacer](#hand-of-malenia---dismounter-and-bloodhounds-fang-replacer)
+    - [Ceremonial Hornsent Cleaver](#ceremonial-hornsent-cleaver)
+    - [Hellish Slasher](#hellish-slasher)
+    - [Backhand Blade - Falx](#backhand-blade---falx)
+    - [Item IDs and Names](#item-ids-and-names)
+    - [숫돌](#숫돌)
+    - [주요 아이템 IDs](#주요-아이템-ids)
+    
 ---
 
-### 적용 중
+## 적용 중
 
 ---
 
@@ -208,7 +246,7 @@
 
 ---
 
-### [2B Cyberpunk pending...](https://www.nexusmods.com/eldenring/mods/4888)
+### [2B Cyberpunk](https://www.nexusmods.com/eldenring/mods/4888)
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/4888/4888-1712853887-1985999571.gif)
 
