@@ -454,23 +454,23 @@
 | ----------------------- | --------- | ---------------------------- | --- |
 | 롱소드                  | 0200      | Longsword                    |     |
 | 브로드소드              | 0201      | Broadsword                   |     |
-| 미켈라의 기사검         | 0229      | Miquellan Knight's Sword     |     |
-| 황금 묘지               | 0216      | Golden Epitaph               |     |
-| 클레이모어              | 0601      | Claymore                     |     |
-| 철대검                  | 0606      | Iron Greatsword              |     |
-| 기사대검                | 0609      | Knight's Greatsword          |     |
 | 땅 잃은 기사의 대검     | 0203      | Banished Knight's Greatsword |     |
-| 플람베르주              | 0610      | Flamberge                    |     |
-| 나뉘지 않는 쌍생아의 검 | 0614      | Inseparable Sword            |     |
-| 오르도비스의 대검       | 0613      | Ordovis's Greatsword         |     |
 | 모독의 성검             | 0213      | Blasphemous Blade            |     |
-| 그레이트소드            | 0612      | Greatsword                   |     |
-| 불의 기사 대검          | 0640      | Fire Knight's Greatsword     |     |
+| 황금 묘지               | 0216      | Golden Epitaph               |     |
+| 미켈라의 기사검         | 0229      | Miquellan Knight's Sword     |     |
 | 개미가시 레이피어       | 0253      | Antspur Rapier               |     |
-| 역수검                  | 1571      | Backhand Blade               |     |
 | 타도                    | 0550      | Uchigatana                   |     |
 | 긴 이빨                 | 0551      | Nagakiba                     |     |
 | 명도 월은               | 0556      | Moonveil                     |     |
+| 클레이모어              | 0601      | Claymore                     |     |
+| 철대검                  | 0606      | Iron Greatsword              |     |
+| 기사대검                | 0609      | Knight's Greatsword          |     |
+| 플람베르주              | 0610      | Flamberge                    |     |
+| 그레이트소드            | 0612      | Greatsword                   |     |
+| 오르도비스의 대검       | 0613      | Ordovis's Greatsword         |     |
+| 나뉘지 않는 쌍생아의 검 | 0614      | Inseparable Sword            |     |
+| 불의 기사 대검          | 0640      | Fire Knight's Greatsword     |     |
+| 역수검                  | 1571      | Backhand Blade               |     |
 | 경대검                  | 1680      | Milady                       |     |
 
 ---
