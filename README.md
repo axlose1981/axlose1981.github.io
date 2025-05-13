@@ -2,44 +2,46 @@
 
 # [Elden ring mods](https://www.nexusmods.com/eldenring/)
 
+-   [Elden ring mods](#elden-ring-mods)
+    -   [적용 중](#적용-중)
+        -   [mode engine 2](#mode-engine-2)
+        -   [Custom UI Minimize HUD 2B Edition](#custom-ui-minimize-hud-2b-edition)
+        -   [Succubus Gley](#succubus-gley)
+        -   [Ultimate Bunny](#ultimate-bunny)
+        -   [Dia Elias (The First Decscendant)](#dia-elias-the-first-decscendant)
+        -   [Ultimate Valby](#ultimate-valby)
+        -   [Kaine from NIeR Replicant 1.22](#kaine-from-nier-replicant-122)
+        -   [Lineage II Revolution - Elf](#lineage-ii-revolution---elf)
+        -   [Lineage II Revolution - Dark Elf](#lineage-ii-revolution---dark-elf)
+        -   [NieR Reincarnation - YoRHa No.10 Type H](#nier-reincarnation---yorha-no10-type-h)
+        -   [2B 2P Classic (physics and weapons)](#2b-2p-classic-physics-and-weapons)
+        -   [10H 2B Reborn Warden (full pyhsics and weapons)](#10h-2b-reborn-warden-full-pyhsics-and-weapons)
+        -   [2B Reincarnation (2 colours physics jiggle DLC compatabile)](#2b-reincarnation-2-colours-physics-jiggle-dlc-compatabile)
+        -   [2B Cyberpunk](#2b-cyberpunk)
+        -   [Kingdom Under Fire Celine](#kingdom-under-fire-celine)
+        -   [Lyra (ToF)](#lyra-tof)
+        -   [Trasparent Body(투명 바디)](#trasparent-body투명-바디)
+        -   [Aerondight - The Witcher Sword](#aerondight---the-witcher-sword)
+        -   [Witcher 3 Zireael (Ciri's sword)](#witcher-3-zireael-ciris-sword)
+        -   [Ooga Booga Sword](#ooga-booga-sword)
+        -   [Nioh - Odachi Collection Part 1](#nioh---odachi-collection-part-1)
+        -   [Nioh - Odachi Collection Part 2](#nioh---odachi-collection-part-2)
+        -   [Nioh - Odachi Collection Part 3](#nioh---odachi-collection-part-3)
+    -   [적용 안함](#적용-안함)
+        -   [Three Kingdoms Blade - Ryeonggi pending...](#three-kingdoms-blade---ryeonggi-pending)
+        -   [Akeha - hair and cloth physics](#akeha---hair-and-cloth-physics)
+        -   [BLACK ROCK SHOOTER](#black-rock-shooter)
+        -   [Snow White Sera from OverHit aka Succubus Mommy](#snow-white-sera-from-overhit-aka-succubus-mommy)
+        -   [Irithyll Straight Sword](#irithyll-straight-sword)
+        -   [Greatsword of Artorias Restored](#greatsword-of-artorias-restored)
+        -   [Hand of Malenia - Dismounter and Bloodhound's Fang replacer](#hand-of-malenia---dismounter-and-bloodhounds-fang-replacer)
+        -   [Ceremonial Hornsent Cleaver](#ceremonial-hornsent-cleaver)
+        -   [Hellish Slasher](#hellish-slasher)
+        -   [Backhand Blade - Falx](#backhand-blade---falx)
+        -   [Item IDs and Names](#item-ids-and-names)
+        -   [숫돌](#숫돌)
+        -   [주요 아이템 IDs](#주요-아이템-ids)
 
-- [Elden ring mods](#elden-ring-mods)
-  - [적용 중](#적용-중)
-    - [mode engine 2](#mode-engine-2)
-    - [Custom UI Minimize HUD 2B Edition](#custom-ui-minimize-hud-2b-edition)
-    - [Succubus Gley](#succubus-gley)
-    - [Ultimate Bunny](#ultimate-bunny)
-    - [Dia Elias (The First Decscendant)](#dia-elias-the-first-decscendant)
-    - [Ultimate Valby](#ultimate-valby)
-    - [Kaine from NIeR Replicant 1.22](#kaine-from-nier-replicant-122)
-    - [Lineage II Revolution - Elf](#lineage-ii-revolution---elf)
-    - [Lineage II Revolution - Dark Elf](#lineage-ii-revolution---dark-elf)
-    - [NieR Reincarnation - YoRHa No.10 Type H](#nier-reincarnation---yorha-no10-type-h)
-    - [2B 2P Classic (physics and weapons)](#2b-2p-classic-physics-and-weapons)
-    - [10H 2B Reborn Warden (full pyhsics and weapons)](#10h-2b-reborn-warden-full-pyhsics-and-weapons)
-    - [2B Reincarnation (2 colours physics jiggle DLC compatabile)](#2b-reincarnation-2-colours-physics-jiggle-dlc-compatabile)
-    - [2B Cyberpunk](#2b-cyberpunk)
-    - [Kingdom Under Fire Celine](#kingdom-under-fire-celine)
-    - [Lyra (ToF)](#lyra-tof)
-    - [Trasparent Body(투명 바디)](#trasparent-body투명-바디)
-    - [Aerondight - The Witcher Sword](#aerondight---the-witcher-sword)
-    - [Witcher 3 Zireael (Ciri's sword)](#witcher-3-zireael-ciris-sword)
-    - [Ooga Booga Sword](#ooga-booga-sword)
-  - [적용 안함](#적용-안함)
-    - [Three Kingdoms Blade - Ryeonggi pending...](#three-kingdoms-blade---ryeonggi-pending)
-    - [Akeha - hair and cloth physics](#akeha---hair-and-cloth-physics)
-    - [BLACK ROCK SHOOTER](#black-rock-shooter)
-    - [Snow White Sera from OverHit aka Succubus Mommy](#snow-white-sera-from-overhit-aka-succubus-mommy)
-    - [Irithyll Straight Sword](#irithyll-straight-sword)
-    - [Greatsword of Artorias Restored](#greatsword-of-artorias-restored)
-    - [Hand of Malenia - Dismounter and Bloodhound's Fang replacer](#hand-of-malenia---dismounter-and-bloodhounds-fang-replacer)
-    - [Ceremonial Hornsent Cleaver](#ceremonial-hornsent-cleaver)
-    - [Hellish Slasher](#hellish-slasher)
-    - [Backhand Blade - Falx](#backhand-blade---falx)
-    - [Item IDs and Names](#item-ids-and-names)
-    - [숫돌](#숫돌)
-    - [주요 아이템 IDs](#주요-아이템-ids)
-    
 ---
 
 ## 적용 중
@@ -160,7 +162,6 @@
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/6398/6398-1725158454-909266582.png)
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/6398/6398-1725158385-1245921751.png)
-
 
 |      | 부위 | 원본     | ID   | EN      | 설명 |
 | ---- | ---- | -------- | ---- | ------- | ---- |
@@ -330,6 +331,69 @@
 
 ---
 
+### [Nioh - Odachi Collection Part 1](https://www.nexusmods.com/eldenring/mods/7965)
+
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747068176-1137953110.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067113-60235866.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067122-1796540209.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067131-736507311.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067138-1166855649.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067146-96331082.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067152-1733777422.png)
+
+|      | 부위 | 원본 | ID  | EN  | 설명                 |
+| ---- | ---- | ---- | --- | --- | -------------------- |
+| 무기 |      |      |     |     | Bizenden             |
+| 무기 |      |      |     |     | bloodstained Cleaver |
+| 무기 |      |      |     |     | Futsunomitama        |
+| 무기 |      |      |     |     | Hotarumaru           |
+| 무기 |      |      |     |     | Jakirimaru           |
+| 무기 |      |      |     |     | Jiro Tachi           |
+
+---
+
+### [Nioh - Odachi Collection Part 2](https://www.nexusmods.com/eldenring/mods/7966)
+
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067590-1405221112.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067610-1621811371.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067647-1496078842.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067662-1320792409.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067693-1570950563.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067709-2082254064.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067732-894647328.png)
+
+|      | 부위 | 원본 | ID  | EN  | 설명                      |
+| ---- | ---- | ---- | --- | --- | ------------------------- |
+| 무기 |      |      |     |     | Kamui Odachi              |
+| 무기 |      |      |     |     | Kimbanzai Tomonari Odachi |
+| 무기 |      |      |     |     | Mijinmaru Odachi          |
+| 무기 |      |      |     |     | Monohoshizao Odachi       |
+| 무기 |      |      |     |     | Omokage Odachi            |
+| 무기 |      |      |     |     | Rai Kunuyuki Odachi       |
+
+---
+
+### [Nioh - Odachi Collection Part 3](https://www.nexusmods.com/eldenring/mods/7967)
+
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068376-997203336.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068433-461626932.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068447-280126172.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068529-1731494279.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068546-427965125.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068563-240774735.png)
+![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068580-522221724.png)
+
+|      | 부위 | 원본 | ID  | EN  | 설명                    |
+| ---- | ---- | ---- | --- | --- | ----------------------- |
+| 무기 |      |      |     |     | Rai Odachi              |
+| 무기 |      |      |     |     | Sekishu Kazusada Odachi |
+| 무기 |      |      |     |     | Sukesada Odachi         |
+| 무기 |      |      |     |     | Takahira Odachi         |
+| 무기 |      |      |     |     | Taro Tachi              |
+| 무기 |      |      |     |     | Usami Nagamitsu         |
+
+---
+
 ## 적용 안함
 
 ---
@@ -454,23 +518,23 @@
 | ----------------------- | --------- | ---------------------------- | --- |
 | 롱소드                  | 0200      | Longsword                    |     |
 | 브로드소드              | 0201      | Broadsword                   |     |
-| 땅 잃은 기사의 대검     | 0203      | Banished Knight's Greatsword |     |
-| 모독의 성검             | 0213      | Blasphemous Blade            |     |
-| 황금 묘지               | 0216      | Golden Epitaph               |     |
 | 미켈라의 기사검         | 0229      | Miquellan Knight's Sword     |     |
-| 개미가시 레이피어       | 0253      | Antspur Rapier               |     |
-| 타도                    | 0550      | Uchigatana                   |     |
-| 긴 이빨                 | 0551      | Nagakiba                     |     |
-| 명도 월은               | 0556      | Moonveil                     |     |
+| 황금 묘지               | 0216      | Golden Epitaph               |     |
 | 클레이모어              | 0601      | Claymore                     |     |
 | 철대검                  | 0606      | Iron Greatsword              |     |
 | 기사대검                | 0609      | Knight's Greatsword          |     |
+| 땅 잃은 기사의 대검     | 0203      | Banished Knight's Greatsword |     |
 | 플람베르주              | 0610      | Flamberge                    |     |
-| 그레이트소드            | 0612      | Greatsword                   |     |
-| 오르도비스의 대검       | 0613      | Ordovis's Greatsword         |     |
 | 나뉘지 않는 쌍생아의 검 | 0614      | Inseparable Sword            |     |
+| 오르도비스의 대검       | 0613      | Ordovis's Greatsword         |     |
+| 모독의 성검             | 0213      | Blasphemous Blade            |     |
+| 그레이트소드            | 0612      | Greatsword                   |     |
 | 불의 기사 대검          | 0640      | Fire Knight's Greatsword     |     |
+| 개미가시 레이피어       | 0253      | Antspur Rapier               |     |
 | 역수검                  | 1571      | Backhand Blade               |     |
+| 타도                    | 0550      | Uchigatana                   |     |
+| 긴 이빨                 | 0551      | Nagakiba                     |     |
+| 명도 월은               | 0556      | Moonveil                     |     |
 | 경대검                  | 1680      | Milady                       |     |
 
 ---
