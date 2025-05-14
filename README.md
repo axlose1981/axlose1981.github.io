@@ -55,6 +55,8 @@
 -   ./mod/ 폴더에 모드 파일 넣기
 -   launchmod_eldenring.bat 실행
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Custom UI Minimize HUD 2B Edition](https://www.nexusmods.com/eldenring/mods/5780)
@@ -62,6 +64,8 @@
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/5780/5780-1721824956-986855701.png)
 
 -   메뉴 커스터마이즈
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -75,6 +79,8 @@
 |      | 가슴 | 기사 | 1570 | Knight |      |
 |      | 장갑 | 기사 | 1570 | Knight |      |
 |      | 각반 | 기사 | 1570 | Knight |      |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -90,6 +96,8 @@
 |      | 각반 | 렐라나   | 3090 | Rellana              |        |
 |      | 가슴 | 친위기사 | 1740 | Royal Knight Armor   | 비키니 |
 |      | 각반 | 친위기사 | 1740 | Royal Knight Greaves | 비키니 |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -108,6 +116,8 @@
 |      | 장갑 | 고드릭 기사 | 1390 | Godrick Knight | white |
 |      | 각반 | 고드릭 기사 | 1390 | Godrick Knight | white |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Ultimate Valby](https://www.nexusmods.com/eldenring/mods/7040)
@@ -125,6 +135,8 @@
 |      | 장갑 | 적사자 기사 | 2420 | Redmane Knight | white |
 |      | 각반 | 적사자 기사 | 2420 | Redmane Knight | white |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Kaine from NIeR Replicant 1.22](https://www.nexusmods.com/eldenring/mods/3928)
@@ -141,6 +153,8 @@
 
 -   다른 파츠로 변경하면 클리핑 발생
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Lineage II Revolution - Elf](https://www.nexusmods.com/eldenring/mods/6332?tab=files)
@@ -156,6 +170,8 @@
 
 -   다른 파츠로 변경하면 클리핑 발생
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Lineage II Revolution - Dark Elf](https://www.nexusmods.com/eldenring/mods/6398?tab=description)
@@ -170,7 +186,7 @@
 |      | 장갑 | 가이우스 | 3000 | Gaius's |      |
 |      | 각반 | 가이우스 | 3000 | Gaius's |      |
 
--   헤어스타일 7가지
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -186,6 +202,8 @@
 |      | 장갑   | 겔미어 기사 | 2420 | Gelmir Knight   |              |
 |      | 각반   | 겔미어 기사 | 2420 | Gelmir Knight   |              |
 | 무기 | 경대검 | 경대검      | 1680 | Milady          | 2B 백의 계약 |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -205,6 +223,8 @@
 |      | 장갑 | 사냥개 기사 | 1850 | Bloodhound Knight | 흰색               |
 |      | 각반 | 사냥개 기사 | 1850 | Bloodhound Knight | 흰색               |
 |      | 각반 | 귀부 기사   | 1810 | Cleanrot          | 흰색. 스커트 없음. |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -228,6 +248,8 @@
 |      | 각반 | 영묘기사        | 2430 | Mausoleum Knight | 흰색              |
 |      | 각반 | 블라이드의 각반 | 1600 | Blaidd's         | 흰색. 안대 디자인 |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [2B Reincarnation (2 colours physics jiggle DLC compatabile)](https://www.nexusmods.com/eldenring/mods/4492)
@@ -244,6 +266,8 @@
 |      | 가슴 | 죽음 기사 | 3010 | Death Knight | 흰색 |
 |      | 장갑 | 죽음 기사 | 3010 | Death Knight | 흰색 |
 |      | 각반 | 죽음 기사 | 3010 | Death Knight | 흰색 |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -262,6 +286,8 @@
 |      | 장갑 | 용기사 | 1100 | Drake    | 흰색 |
 |      | 각반 | 용기사 | 1100 | Drake    | 흰색 |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Kingdom Under Fire Celine](https://www.nexusmods.com/eldenring/mods/2152)
@@ -274,6 +300,8 @@
 |      | 가슴 | 뿔 전사 | 3080 | Horned Warrior |      |
 |      | 장갑 | 뿔 전사 | 3080 | Horned Warrior |      |
 |      | 각반 | 뿔 전사 | 3080 | Horned Warrior |      |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -289,6 +317,8 @@
 |      | 장갑 | 점성술       | 1250 | Astrologer     |           |
 |      | 각반 | 점성술       | 1250 | Astrologer     |           |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Trasparent Body(투명 바디)](#)
@@ -298,6 +328,8 @@
 |     | 가슴 | 온 지혜 | 1210 | All-Knowing |      |
 |     | 장갑 | 온 지혜 | 1210 | All-Knowing |      |
 |     | 각반 | 온 지혜 | 1210 | All-Knowing |      |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -309,6 +341,8 @@
 | ---- | ---------- | ---- | -------- | ------------------ | ---- |
 | 무기 | 클레이모어 | 0601 | Claymore | 위쳐3 에이론다이트 |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Witcher 3 Zireael (Ciri's sword)](https://www.nexusmods.com/eldenring/mods/1717)
@@ -319,6 +353,8 @@
 | ---- | ---- | --------- | ---- | -------------- | ------------ |
 | 무기 | 직검 | 황금 묘비 | 0216 | Golden Epitaph | 위쳐3 지라엘 |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Ooga Booga Sword](https://www.nexusmods.com/eldenring/mods/6992)
@@ -328,6 +364,8 @@
 |      | 부위 | 원본 | ID  | EN  | 설명 |
 | ---- | ---- | ---- | --- | --- | ---- |
 | 무기 |      |      |     |     |      |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -356,6 +394,8 @@ Jiro Tachi
 | 무기 |      |      |     |     | Jakirimaru           |
 | 무기 |      |      |     |     | Jiro Tachi           |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Nioh - Odachi Collection Part 2](https://www.nexusmods.com/eldenring/mods/7966)
@@ -382,6 +422,8 @@ Rai Kunuyuki Odachi
 | 무기 |      |      |     |     | Monohoshizao Odachi       |
 | 무기 |      |      |     |     | Omokage Odachi            |
 | 무기 |      |      |     |     | Rai Kunuyuki Odachi       |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -410,6 +452,8 @@ Usami Nagamitsu
 | 무기 |      |      |     |     | Taro Tachi              |
 | 무기 |      |      |     |     | Usami Nagamitsu         |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ## 적용 안함
@@ -427,17 +471,23 @@ Usami Nagamitsu
 |      | 장갑 | 사냥개 기사 | 1850 | Bloodhound Knight |      |
 |      | 각반 | 사냥개 기사 | 1850 | Bloodhound Knight |      |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Akeha - hair and cloth physics](https://www.nexusmods.com/eldenring/mods/1475)
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/1475/1475-1655142920-763341462.png)
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [BLACK ROCK SHOOTER](https://www.nexusmods.com/eldenring/mods/2635)
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/2635/2635-1670420478-695760523.png)
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -452,6 +502,8 @@ Usami Nagamitsu
 |      | 장갑 | 쌍생아의 장갑 | 1220 | Drake Knight's |      |
 |      | 각반 | 쌍생아의 각반 | 1220 | Drake Knight's |      |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Irithyll Straight Sword](https://www.nexusmods.com/eldenring/mods/6591?tab=images)
@@ -461,6 +513,8 @@ Usami Nagamitsu
 |      | 부위 | 원본      | ID   | EN             | 설명          |
 | ---- | ---- | --------- | ---- | -------------- | ------------- |
 | 무기 | 직검 | 황금 묘비 | 0216 | Golden Epitaph | 이루실의 직검 |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -472,6 +526,8 @@ Usami Nagamitsu
 | ---- | ---- | ---------- | ---- | -------- | ----------------- |
 | 무기 | 대검 | 클레이모어 | 0601 | Claymore | 아르토리아의 대검 |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Hand of Malenia - Dismounter and Bloodhound's Fang replacer](https://www.nexusmods.com/eldenring/mods/4100)
@@ -481,6 +537,8 @@ Usami Nagamitsu
 |      | 부위   | 원본             | ID   | EN                | 설명              |
 | ---- | ------ | ---------------- | ---- | ----------------- | ----------------- |
 | 무기 | 대곡검 | 사냥개의 긴 이빨 | 0453 | Bloodhound's Fang | 말레니아의 의수도 |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -492,6 +550,8 @@ Usami Nagamitsu
 | ---- | ------ | ---------------- | ---- | ----------------- | ---- |
 | 무기 | 대곡검 | 사냥개의 긴 이빨 | 0453 | Bloodhound's Fang |      |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Hellish Slasher](https://www.nexusmods.com/eldenring/mods/7053)
@@ -501,6 +561,8 @@ Usami Nagamitsu
 |      | 부위   | 원본             | ID   | EN                | 설명 |
 | ---- | ------ | ---------------- | ---- | ----------------- | ---- |
 | 무기 | 대곡검 | 사냥개의 긴 이빨 | 0453 | Bloodhound's Fang |      |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -512,9 +574,13 @@ Usami Nagamitsu
 | ---- | ------ | ------ | ---- | -------------- | ---- |
 | 무기 | 역수검 | 역수검 | 1571 | Backhand Blade | 팔스 |
 
+[맨 위로](#elden-ring-mods)
+
 ---
 
 ### [Item IDs and Names](https://www.nexusmods.com/eldenring/articles/158)
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -527,6 +593,8 @@ Usami Nagamitsu
 | 불탄 숫돌     | 화염, 화염술     | 적사자성 북서쪽 방           |     |
 | 성스러운 숫돌 | 신성, 벼락       | 도읍 로데일 성관 2층         |     |
 | 검은 숫돌     | 독, 피, 신비     | 영원의 도읍 노크론 밤의 성역 |     |
+
+[맨 위로](#elden-ring-mods)
 
 ---
 
@@ -554,5 +622,7 @@ Usami Nagamitsu
 | 불의 기사 대검          | 0640      | Fire Knight's Greatsword     |     |
 | 역수검                  | 1571      | Backhand Blade               |     |
 | 경대검                  | 1680      | Milady                       |     |
+
+[맨 위로](#elden-ring-mods)
 
 ---
