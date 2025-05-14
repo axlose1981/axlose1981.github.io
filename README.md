@@ -335,16 +335,22 @@
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747068176-1137953110.png)
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067113-60235866.png)
+Bizenden
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067122-1796540209.png)
+Bloodstained Cleaver
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067131-736507311.png)
+Futsunomitama
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067138-1166855649.png)
+Hotarumaru
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067146-96331082.png)
+Jakirimaru
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7965/7965-1747067152-1733777422.png)
+Jiro Tachi
 
 |      | 부위 | 원본 | ID  | EN  | 설명                 |
 | ---- | ---- | ---- | --- | --- | -------------------- |
 | 무기 |      |      |     |     | Bizenden             |
-| 무기 |      |      |     |     | bloodstained Cleaver |
+| 무기 |      |      |     |     | Bloodstained Cleaver |
 | 무기 |      |      |     |     | Futsunomitama        |
 | 무기 |      |      |     |     | Hotarumaru           |
 | 무기 |      |      |     |     | Jakirimaru           |
@@ -356,11 +362,17 @@
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067590-1405221112.png)
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067610-1621811371.png)
+Kamui Odachi
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067647-1496078842.png)
+Kimbanzai Tomonari Odachi
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067662-1320792409.png)
+Mijinmaru Odachi
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067693-1570950563.png)
+Monohoshizao Odachi
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067709-2082254064.png)
+Omokage Odachi
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7966/7966-1747067732-894647328.png)
+Rai Kunuyuki Odachi
 
 |      | 부위 | 원본 | ID  | EN  | 설명                      |
 | ---- | ---- | ---- | --- | --- | ------------------------- |
@@ -377,11 +389,17 @@
 
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068376-997203336.png)
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068433-461626932.png)
+Rai Odachi
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068447-280126172.png)
+Sekishu Kazusada Odachi
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068529-1731494279.png)
+Sukesada Odachi
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068546-427965125.png)
+Takahira Odachi
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068563-240774735.png)
+Taro Tachi
 ![2B](https://staticdelivery.nexusmods.com/mods/4333/images/7967/7967-1747068580-522221724.png)
+Usami Nagamitsu
 
 |      | 부위 | 원본 | ID  | EN  | 설명                    |
 | ---- | ---- | ---- | --- | --- | ----------------------- |
