@@ -56,7 +56,4 @@ document.addEventListener('DOMContentLoaded', () => {
             resultsContainer.appendChild(rowElement);
         }
     });
-
-    // 초기 상태로 버튼 클릭 효과 (기본값인 5세트를 생성해둠)
-    generateBtn.click();
 });
